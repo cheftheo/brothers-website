@@ -1,0 +1,202 @@
+{
+  "discord": "https://discord.gg/syncteam",
+  "serverCode": "ajyydz",
+  "home": {
+    "text-description": "Unlease your imagination with the prefect balance of chaos and orderon the largest freeroam experience in FiveM with [X] players",
+    "stats": [
+      {
+        "title": "Online Players",
+        "value": "[X] / 1500"
+      },
+      {
+        "title": "Total Players",
+        "value": "200k"
+      },
+      {
+        "title": "Total Punishments",
+        "value": "132.51k"
+      }
+    ],
+    "features": [
+      {
+        "title": "Custom Vehicles",
+        "description": "We have a wide range of custom vehicles to choose from, with more being added every day."
+      },
+      {
+        "title": "Custom Vehicles",
+        "description": "We have a wide range of custom vehicles to choose from, with more being added every day."
+      },
+      {
+        "title": "Custom Vehicles",
+        "description": "We have a wide range of custom vehicles to choose from, with more being added every day."
+      },
+      {
+        "title": "Custom Vehicles",
+        "description": "We have a wide range of custom vehicles to choose from, with more being added every day."
+      },
+      {
+        "title": "Custom Vehicles",
+        "description": "We have a wide range of custom vehicles to choose from, with more being added every day."
+      },
+      {
+        "title": "Custom Vehicles",
+        "description": "We have a wide range of custom vehicles to choose from, with more being added every day."
+      }
+    ]
+  },
+  "news": {
+    "description": "Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis."
+  },
+  "actions": [
+    {
+      "title": "updates",
+      "url": "/updates"
+    },
+    {
+      "title": "news",
+      "url": "/news"
+    },
+    {
+      "title": "tournaments",
+      "url": "/tournaments"
+    }
+  ],
+  "servers": [
+    {
+      "name": "Main Server",
+      "invite": "https://discord.gg/syncteam",
+      "image": ""
+    },
+    {
+      "name": "Main Server 2",
+      "invite": "https://discord.gg/syncteam",
+      "image": ""
+    }
+  ],
+  "rules": {
+    "server": "Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.",
+    "discord": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
+  },
+  "staff": [
+    {
+      "name": "og.i",
+      "role": "Administrator",
+      "avatar": "https://media.discordapp.net/attachments/1185277390520328302/1196159003504427139/d5ce2445dfe002e6da3161d843be3fa0.png?ex=65b69ce1&is=65a427e1&hm=2090e41a8cdfab5d390c8faf26145a7a23671a26a45b7dc3f8c87b5cacd3ca93&=&format=webp&quality=lossless"
+    },
+    {
+      "name": "Abdulelah.",
+      "role": "Founder",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Abdullah",
+      "role": "Moderator",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "name",
+      "role": "role",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "name",
+      "role": "role",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "name",
+      "role": "role",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "name",
+      "role": "role",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "name",
+      "role": "role",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "name",
+      "role": "role",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "name",
+      "role": "role",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "name",
+      "role": "role",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "name",
+      "role": "role",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "name",
+      "role": "role",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+  "founders": [
+    {
+      "username": "og.i"
+    },
+    {
+      "username": "Abdullah"
+    },
+    {
+      "username": "Abdulelah."
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "himalaya21",
+      "rank": "1",
+      "deaths": "12",
+      "kills": "22",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxM"
+    },
+    {
+      "name": "himalaya21",
+      "rank": "1",
+      "deaths": "12",
+      "kills": "22",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxM"
+    },
+    {
+      "name": "himalaya21",
+      "rank": "1",
+      "deaths": "12",
+      "kills": "22",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxM"
+    },
+    {
+      "name": "himalaya21",
+      "rank": "1",
+      "deaths": "12",
+      "kills": "22",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxM"
+    },
+    {
+      "name": "himalaya21",
+      "rank": "1",
+      "deaths": "12",
+      "kills": "22",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxM"
+    },
+    {
+      "name": "himalaya21",
+      "rank": "1",
+      "deaths": "12",
+      "kills": "22",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxM"
+    }
+  ]
+}

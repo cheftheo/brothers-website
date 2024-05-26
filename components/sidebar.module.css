@@ -1,0 +1,68 @@
+.sideBar {
+  position: fixed;
+  height: 100vh;
+  top: 0px;
+  left: 0px;
+  z-index: 20;
+  background: black;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: center;
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+.sideBar a:not(.logo) {
+  height: 100px;
+  position: relative;
+  padding: 20px;
+  flex-shrink: 0;
+  writing-mode: vertical-lr;
+  font-size: var(--text-sm);
+  font-weight: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.3);
+  transition: all 0.2s ease-in-out;
+  width: 100%;
+}
+a.hover {
+  opacity: 1;
+}
+.selected {
+  position: absolute;
+  inset: 0;
+  border-right: 2px solid var(--brand);
+}
+.hover {
+  color: white !important;
+  transform: scale(1.2);
+  opacity: 1;
+}
+.logo {
+  flex-shrink: 0;
+  font-size: var(--text-md);
+  font-weight: 900;
+  line-height: 1;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--background);
+  border-radius: 4px;
+  margin: 1.8rem 0;
+}
+.logo span {
+  font-size: var(--text-md);
+  font-weight: 900;
+  line-height: 1;
+  color: var(--brand);
+}
+.sideBar::-webkit-scrollbar {
+  display: none;
+}
